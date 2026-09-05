@@ -1,7 +1,8 @@
 {
   "rules": {
     "reservation": {
-      ".read": "auth != null",
+      ".read": "auth != null || (query.orderByChild == 'r_tel' && query.equalTo != null)",
+      ".indexOn": ["r_tel"],
       "$reservationId": { ".write": "!data.exists() || auth != null" }
     },
     "site": { ".read": true, ".write": "auth != null" }
