@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "reservation": {
+      ".read": "auth != null",
+      "$reservationId": { ".write": "!data.exists() || auth != null" }
+    },
+    "site": { ".read": true, ".write": "auth != null" }
+  }
+}
