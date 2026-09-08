@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-label="청주시 서원구 사직대로 109 매장 위치 지도">
+  <rect width="900" height="620" fill="#e9e4da"/>
+  <path d="M-30 105L930 330M-45 445L930 175M100-20L300 650M575-30L730 650M-15 275L920 520" stroke="#fffdf8" stroke-width="34"/>
+  <path d="M-30 105L930 330M-45 445L930 175M100-20L300 650M575-30L730 650M-15 275L920 520" stroke="#a89f92" stroke-width="3" opacity=".45"/>
+  <path d="M-20 378L915 190" stroke="#d8634f" stroke-width="54" opacity=".9"/>
+  <path d="M-20 378L915 190" stroke="#b54231" stroke-width="4"/>
+  <g fill="#c9d5bf" opacity=".85"><path d="M30 32h190v118H30zM405 35h130v97H405zM731 44h136v122H731zM342 403h165v143H342zM730 422h130v135H730z"/></g>
+  <g fill="#f7f4ed" stroke="#bbb2a5" stroke-width="3"><path d="M125 170h153v89H125zM525 170h134v78H525zM620 335h164v70H620zM82 440h170v90H82z"/></g>
+  <g transform="translate(455 308)"><circle r="57" fill="#c72d1d" opacity=".18"/><path d="M0-48c-23 0-41 18-41 41 0 31 41 76 41 76S41 24 41-7C41-30 23-48 0-48z" fill="#c72d1d"/><circle cy="-7" r="14" fill="#fff"/><circle cy="-7" r="6" fill="#c72d1d"/></g>
+  <g font-family="Arial, Malgun Gothic, sans-serif" fill="#493f35"><text x="80" y="342" font-size="28" font-weight="700">사직대로</text><text x="500" y="287" font-size="25" font-weight="700">솥뚜껑 삼겹살</text><text x="500" y="319" font-size="18">청주시 서원구 사직대로 109</text></g>
+</svg>
